@@ -3,5 +3,11 @@ ajdeee
 I sad se konacno krece sa gitom
 provera za to da li radi ovaj git
 ee ovo je sada promena za novu granu
-DODATAK MASTERU 
+
 oooo master
+=======
+dodataj za mojuGranu
+DODATAK MASTERU 
+
+I sad se ovo kao editovalo spolja....
+
