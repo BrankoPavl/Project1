@@ -3,3 +3,4 @@ prvi upis na novi fajlgit status
 I sad se konacno krece sa gitom
 provera za to da li radi ovaj git
 ee ovo je sada promena za novu granu
+DODATAK MASTERU 
