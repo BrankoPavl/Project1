@@ -6,3 +6,5 @@ ee ovo je sada promena za novu granu
 
 
 dodataj za mojuGranu
+
+dodatak iz vscoda 
