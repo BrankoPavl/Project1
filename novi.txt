@@ -1,3 +1,5 @@
 prvi upis na novi fajlgit status
 
 I sad se konacno krece sa gitom
+provera za to da li radi ovo
+a cak i ovo gledam da li radi
